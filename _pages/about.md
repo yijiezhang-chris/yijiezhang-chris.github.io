@@ -30,11 +30,11 @@ I've also spent time at
 
 CURRENT PROJECTS
 ======
-* Virtual histological staining on the use of deep learning (Collaborators: [Yair Rivenson](Virtual histological staining on the use of deep learning), [
+* Virtual histological staining on the use of deep learning (Collaborators: [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/), [
 Kevin de Haan](https://scholar.google.com/citations?user=U0wpXbkAAAAJ&hl=en), [Aydogan Ozcan](https://innovate.ee.ucla.edu/))
 * Deep optics beyond reconstruction(Collaborators: [Guangyuan Zhao](https://scholar.google.com/citations?user=MKLSFzEAAAAJ&hl=zh-CN))
 * Multi Virtual histological Staining, Staining Blending and
-Staining for Microstructure (Collaborators: [Yair Rivenson](Virtual histological staining on the use of deep learning), [
+Staining for Microstructure (Collaborators: [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/), [
 Kevin de Haan](https://scholar.google.com/citations?user=U0wpXbkAAAAJ&hl=en), [Aydogan Ozcan](https://innovate.ee.ucla.edu/))
 
 
