@@ -47,7 +47,7 @@ Staining for Microstructure". To be submitted to *Light: Science & Applications*
 
 **Y. Zhang**, A. Echeberriaa, T. Zhoua and B. Jalali, "Comparison of Optoelectronic Reservoir Computing and LSTM". Poster, *Photonics West 2020*, accepted.
 
-F. Sun\*, Y**Y. Zhang**\*, J. Evans, and S. He, ["A Camouflage Device Without Metamaterials"](http://www.jpier.org/PIER/pier.php?paper=19080803). *Progress In Electromagnetics Research, Vol. 165, 107-117, 2019.*
+F. Sun\*, **Y. Zhang**\*, J. Evans, and S. He, ["A Camouflage Device Without Metamaterials"](http://www.jpier.org/PIER/pier.php?paper=19080803). *Progress In Electromagnetics Research, Vol. 165, 107-117, 2019.*
 
 P. Cataldi, J. Guerrero, S. Puyol, L. Ceseracciu, L. Notte, A. Reale, **Y. Zhang**, et al. ["Sustainable electronics based on crop plant extracts and graphene: A "bioadvantaged" approach"](https://onlinelibrary.wiley.com/doi/abs/10.1002/adsu.201800069). *Advanced Sustainable Systems, vol. 2, no. 8, 2018.*
 
