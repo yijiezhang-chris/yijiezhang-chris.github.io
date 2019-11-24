@@ -30,10 +30,10 @@ I've also spent time at
 
 CURRENT PROJECTS
 ======
-* Virtual histological staining for clinical diagnosis in Kidney Transplant (Collaborators: [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/), [Kevin de Haan](https://scholar.google.com/citations?user=U0wpXbkAAAAJ&hl=en), [Aydogan Ozcan](https://innovate.ee.ucla.edu/))
+* Virtual histological staining for clinical diagnosis in kidney transplant (Collaborators: [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/), [Kevin de Haan](https://scholar.google.com/citations?user=U0wpXbkAAAAJ&hl=en), [Aydogan Ozcan](https://innovate.ee.ucla.edu/))
 * Deep optics beyond reconstruction(Collaborators: [Guangyuan Zhao](https://scholar.google.com/citations?user=MKLSFzEAAAAJ&hl=zh-CN))
-* Multi Virtual histological Staining, Staining Blending and
-Staining for Microstructure (Collaborators: [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/), [
+* Multi virtual histological staining, staining blending and
+staining for Microstructure (Collaborators: [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/), [
 Kevin de Haan](https://scholar.google.com/citations?user=U0wpXbkAAAAJ&hl=en), [Aydogan Ozcan](https://innovate.ee.ucla.edu/))
 
 
