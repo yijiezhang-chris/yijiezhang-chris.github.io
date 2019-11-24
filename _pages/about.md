@@ -22,7 +22,7 @@ Overall, my research interest includes but not limited to:
 *  Image Processing
 *  Digital Pathology
 
-Prior to UCLA, I spent four years as an undergraduate in Optical Science and Engineering at [Zhejiang University](https://www.zju.edu.cn/english/), where I worked with Sailing He and Fei Sun on invisible cloak.
+Prior to UCLA, I spent four years as an undergraduate in Optical Science and Engineering at [Zhejiang University](https://www.zju.edu.cn/english/), where I worked with [Sailing He](https://scholar.google.com/citations?user=WFETHIUAAAAJ&hl=en) and Fei Sun on invisible cloak.
 
 I've also spent time at 
 * University of Notre Dame. (working with [Lei Liu](https://www3.nd.edu/~lliu3/) on terahertz circuit)
