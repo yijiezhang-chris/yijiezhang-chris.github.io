@@ -54,24 +54,11 @@ P. Cataldi, J. Guerrero, S. Puyol, L. Ceseracciu, L. Notte, A. Reale, **Y. Zhang
 
 Selected Projects
 ======
-Ensemble BERT with Data Augmentation and Linguistic Knowledge on SQuAD 2.0, CS224N Deep Learning for Natural Language Processing, 2019, Christopher Manning. <span style="color:red;">Ranked \#1 on the leaderboard and won the best poster award for the default project division (1 out of 98 teams)</span> \[[report](http://web.stanford.edu/class/cs224n/reports/default/15845024.pdf), [poster](http://web.stanford.edu/class/cs224n/posters/15845024.pdf), [twitter](https://twitter.com/chrmanning/status/1108542840861151232)\]
+* Deep optics beyond reconstruction
+  * Built a differentiable optical image formation model and optimize the optical model with Unet on NYU Depth-v2 dataset to get depth encoded images.
+  * Continued the deep optics model with high level application, which is still in progress.
 
-Improving Sentiment Analysis with Data Augmentation, CS229A Applied Machine Learning, Younes Bensouda Mourri, Andrew Ng, 2019, \[[report](https://hjian42.github.io/files/CS229A_Report.pdf), [poster](https://hjian42.github.io/files/CS229A_poster.pdf), [photo](https://hjian42.github.io/images/ng.jpeg)\]
 
-JoyBot: Your Personal Mood Tracker, Apple iContest for Interns. \[[demo](https://hjian42.github.io/files/hackathon_2019.pdf)\]
-
-  
-Teaching
-======
-* [CS 145 Data Management and Data Systems, Stanford University (Autumn 2019)](https://cs145-fa19.github.io/)
-  
-Service and Leadership
-======
-* Activity Manager, Chinese Entrepreneurship Organization (CEO), 2018-2020
-* Member, Stanford Symbolic Systems Society, 2018-2020
-* Member, Association of Chinese Students and Scholars at Stanford, 2018-2020
-* Vice President in Public Management, Emory Linguistics Circle, 2017
-* Member, Structured Independent Language Study (SILS) Program, 2016-2017
 
 Skills
 ======
