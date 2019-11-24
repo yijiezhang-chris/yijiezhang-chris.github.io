@@ -12,23 +12,20 @@ redirect_from:
 
 BIBLIOGRAPHY
 ======
-Hi, I am a second-year M.S. student in [Symbolic Systems](https://symsys.stanford.edu/) at [Stanford University](https://www.stanford.edu/), where I am fortunate to work with [Michael C. Frank](https://web.stanford.edu/~mcfrank/) ([The Stanford Language and Cognition Lab](http://langcog.stanford.edu/)) and [Vivek Kulkarni](https://viveksck.github.io/) ([Stanford NLP Lab](https://nlp.stanford.edu/people/)). *I am actively applying for PhD programs in natural language processing, computational psycholinguistics, and computational social science for Fall 2020.*
-
-My research focuses on studying language and cognition with machine learning. My goal for pursuing a Ph.D degree is to not only improve natural language processing (NLP) benchmarks but also make *machines achieve learning and reasoning capabilities closer to human learners*. My favorite quote is from [Andrew Ng](http://www.robotics.stanford.edu/~ang/contact.html): *Artificial Intelligence is the New Electricity*. Therefore, I am also passionate about applying ML and NLP techniques in the field of education and sustainable development to make everyone benefit from AI technologies.
+Hi, I am a second-year M.S. student in Electrical and Computer Engineering at UCLA, where I am fortunate to work in [Ozcan Lab](https://innovate.ee.ucla.edu/) and directed by Professor [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/). I am also working on some computatioanl imaging projects personally with [Guangyuan Zhao](https://scholar.google.com/citations?user=MKLSFzEAAAAJ&hl=zh-CN), who is a Ph.D. students advised by [Achuta Kadambi](https://visual.ee.ucla.edu/index.htm). *I am actively applying for PhD programs in computational imaging, biomedical imaging, optics and machine learning for Fall 2020.*
 
 Overall, my research interest includes but not limited to:
-*  Machine Learning, Deep Learning, Decision Making Under Uncertainty
-*  Natural Language Processing, Computational Linguistics
-*  Computational Social Science, Computational Cognitive Science
-*  Language Variation and Change, Social Reasoning, Language Acquisition 
-*  Machine Learning for Education and Sustainable Development
+*  Computational Imaging
+*  Biomedical Imaging
+*  Machine Learning, Deep Learning
+*  Computer Vision
+*  Image Processing
+*  Digital Pathology
 
-Prior to Stanford, I spent four years as an undergraduate in Computer Science and Linguistics at [Emory University](http://www.emory.edu/home/index.html), where I worked with [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html) in [Emory NLP Lab](http://nlp.mathcs.emory.edu/home.html) on natural language processing and [Roberto Franzosi](https://scholar.google.com/citations?user=I5SYOqoAAAAJ&hl=en) in [Emory Program for Computer-Assisted Coding of Events (PC-ACE)](https://pc-ace.com/about/team/) on computational social science. 
+Prior to UCLA, I spent four years as an undergraduate in Optical Science and Engineering at [Zhejiang University](https://www.zju.edu.cn/english/), where I worked with Sailing He and Fei Sun on invisible cloak.
 
 I've also spent time at 
-* Apple Inc. (working with [Bing Zhao](https://www.cs.cmu.edu/~bzhao/), [Vivek Kumar Rangarajan Sridhar](https://scholar.google.com/citations?user=VfezouUAAAAJ&hl=en))
-* [Educational Testing Service (ETS)](https://www.ets.org/) (working with [Martin Chodorow](https://scholar.google.com/citations?user=PuwfixYAAAAJ&hl=en), [Nitin Madnani](https://scholar.google.com/citations?hl=en&user=ow3PIFcAAAAJ), [Aoife Cahill](https://scholar.google.com/citations?hl=en&user=1a-TXfYAAAAJ))
-* [Carnegie Mellon University](https://www.cmu.edu/) (working with [Brian MacWhinney](https://scholar.google.com/citations?user=V8EhIsIAAAAJ&hl=en))
+* University of Notre Dame. (working with [Lei Liu](https://www3.nd.edu/~lliu3/) on terahertz circuit)
 
 
 CURRENT PROJECTS
