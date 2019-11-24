@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-\[[Yijie Zhang's Curriculum Vitae (CV)](https://yijiezhang-chris.github.io/files/Resume_one_page.pdf)\]
+\[[Yijie Zhang's Resume](https://yijiezhang-chris.github.io/files/Resume_one_page.pdf)\]
 
 BIBLIOGRAPHY
 ======
