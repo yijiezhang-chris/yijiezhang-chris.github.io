@@ -30,24 +30,12 @@ I've also spent time at
 
 CURRENT PROJECTS
 ======
-* Modeling Semantic Development with Diachronic Word Embeddings (Collaborators: [Vivek Kulkarni](https://viveksck.github.io/), [Abdellah Fourtassi](https://sites.google.com/site/fourtassi/), [Michael C. Frank](https://web.stanford.edu/~mcfrank/))
-* Semi-supervised Data Augmentation (Collaborators: [Jiequan Zhang](https://www.linkedin.com/in/jiequanzhang/), [Sharon Zhou](http://sharonzhou.me/), [Torbjörn Lundh](https://www.gu.se/english/about_the_university/staff/?languageId=100001&userId=xlundt), [Andrew Ng](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en))
-* Modeling Pragmatic *some* under Rational Speech Act Framework (Collaborators: [Judith Degen](https://sites.google.com/site/judithdegen/))
-* Automatic Earthquake Detection from Multiple Stations with Deep Learning (Collaborators: [Weiqiang Zhu](https://scholar.google.com/citations?user=e5iFLJUAAAAJ&hl=en), [Kai Sheng Tai](https://kaishengtai.github.io/))
+* Virtual histological staining on the use of deep learning (Collaborators: [Yair Rivenson](Virtual histological staining on the use of deep learning), [
+Kevin de Haan](https://scholar.google.com/citations?user=U0wpXbkAAAAJ&hl=en), [Aydogan Ozcan](https://innovate.ee.ucla.edu/))
+* Deep optics beyond reconstruction(Collaborators: [Guangyuan Zhao](https://scholar.google.com/citations?user=MKLSFzEAAAAJ&hl=zh-CN))
+* Multi Virtual histological Staining, Staining Blending and
+Staining for Microstructure (Collaborators: [Yair Rivenson](Virtual histological staining on the use of deep learning), [
+Kevin de Haan](https://scholar.google.com/citations?user=U0wpXbkAAAAJ&hl=en), [Aydogan Ozcan](https://innovate.ee.ucla.edu/))
 
 
-
-NEWS
-======
-**\[10/25/2019\]:** My student abstract was accepted by [AAAI-20 Student Abstract and Poster Program](https://aaai.org/Conferences/AAAI-20/).
-
-**\[10/10/2019\]:** Thanks to Professor [Chris Potts](https://web.stanford.edu/~cgpotts/)'s letter, received [Grants for Education And Research (GEAR)](https://symsys.stanford.edu/opportunitiesresearch/grants-education-and-research-gear) from [Stanford Symbolic Systems Program](https://symsys.stanford.edu/).
-
-**\[10/04/2019\]:** Attended [10th Annual New Directions in Analyzing Text as Data](https://www.textasdata2019.net/) at Stanford, CA.
-
-**\[09/20/2019\]:** Submited a student abstract to [AAAI 2020](https://aaai.org/Conferences/AAAI-20/). 
-
-**\[09/20/2019\]:** Finished my last day as ML Applied to NLP Intern at [Apple Inc.](https://www.apple.com/). 
-
-**\[09/14/2019\]:** My long paper was accepted by [The Society for Computation in Linguistics (SCiL) 2020](https://blogs.umass.edu/scil/call-for-papers-scil-2020/) with oral presentation!
 
