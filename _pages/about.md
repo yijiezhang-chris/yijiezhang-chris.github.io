@@ -12,7 +12,7 @@ redirect_from:
 
 BIBLIOGRAPHY
 ======
-Hi, I am a second-year M.S. student in Electrical and Computer Engineering at UCLA, where I am fortunate to work in [Ozcan Lab](https://innovate.ee.ucla.edu/) and directed by Professor [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/). I am also working on some computatioanl imaging projects personally with [Guangyuan Zhao](https://scholar.google.com/citations?user=MKLSFzEAAAAJ&hl=zh-CN), who is a Ph.D. students advised by [Achuta Kadambi](https://visual.ee.ucla.edu/index.htm). *I am actively applying for PhD programs in computational imaging, biomedical imaging, optics and machine learning for Fall 2020.*
+Hi, I am a second-year M.S. student in Electrical and Computer Engineering at UCLA, where I am fortunate to work with [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/) and [Adogan Ozcan](https://innovate.ee.ucla.edu/). I am also working on some computatioanl imaging projects personally with [Guangyuan Zhao](https://scholar.google.com/citations?user=MKLSFzEAAAAJ&hl=zh-CN), who is a Ph.D. students advised by [Achuta Kadambi](https://visual.ee.ucla.edu/index.htm). *I am actively applying for PhD programs in computational imaging, biomedical imaging, optics and machine learning for Fall 2020.*
 
 Overall, my research interest includes but not limited to:
 *  Computational Imaging
