@@ -59,6 +59,13 @@ Selected Projects
   * Continued the deep optics model with high level application, which is still in progress.
 
 
+Honor & Awards
+======
+* Outstanding graduate design, Zhejiang University, 2018 
+* The third Prize scholarship, Zhejiang University, 2017
+* Da Beinong scholarship, Zhejiang University, 2017
+* The second Prize scholarship, Zhejiang University, 2016
+
 
 Skills
 ======
