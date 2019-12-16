@@ -12,7 +12,7 @@ redirect_from:
 
 BIBLIOGRAPHY
 ======
-Hi, I am a second-year M.S. student in Electrical and Computer Engineering at UCLA, where I am fortunate to work with [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/) and [Adogan Ozcan](https://innovate.ee.ucla.edu/) on virtual staining projects, which contains applying the technology in clinical level (clinical diagnosis) and creative perspective (multi stainig, staining blending and microstructure). I am also personally working on some computatioanl imaging projects with [Guangyuan Zhao](https://scholar.google.com/citations?user=MKLSFzEAAAAJ&hl=zh-CN), who is a Ph.D. student advised by [Achuta Kadambi](https://visual.ee.ucla.edu/index.htm). *I am actively applying for PhD programs in computational imaging, biomedical imaging, optics and machine learning for Fall 2020.*
+Hi, I am a second-year M.S. student in Electrical and Computer Engineering at UCLA, where I am fortunate to work with [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/) and [Aydogan Ozcan](https://innovate.ee.ucla.edu/) on virtual staining projects, which contains applying the technology in clinical level (clinical diagnosis) and creative perspective (multi stainig, staining blending and microstructure). I am also personally working on some computatioanl imaging projects with [Guangyuan Zhao](https://scholar.google.com/citations?user=MKLSFzEAAAAJ&hl=zh-CN), who is a Ph.D. student advised by [Achuta Kadambi](https://visual.ee.ucla.edu/index.htm). *I am actively applying for PhD programs in computational imaging, biomedical imaging, optics and machine learning for Fall 2020.*
 
 Overall, my research interest includes but not limited to:
 *  Computational Imaging
