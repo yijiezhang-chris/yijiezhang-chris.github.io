@@ -22,7 +22,7 @@ Research Experience
   * Implemented Image preprocessing such as image registration on several datasets
   * Designed a neural network for virtual multi staining, staining blending and capturing microstructures of staining tissues
   * Optimized the state-of-the-art system for virtual staining to get credible inference results for pathologist’s clinical diagnosis
-  * Supervisor: [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/) , [Adogan Ozcan](https://innovate.ee.ucla.edu/)
+  * Supervisor: [Yair Rivenson](https://www.ee.ucla.edu/yair-rivenson/) , [Aydogan Ozcan](https://innovate.ee.ucla.edu/)
 
 * 03/2018 - 05/2018: Undergraduate Research Student, Zhejiang University
   * Designed and simulated structure of the device by COMSOL
