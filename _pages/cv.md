@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-\[[Yijie Zhang's Resume](https://yijiezhang-chris.github.io/files/Resume_one_page _newest.pdf)\]
+\[[Yijie Zhang's Resume](https://yijiezhang-chris.github.io/files/Resume_one_page_newest.pdf)\]
 
 Education
 ======
