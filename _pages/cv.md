@@ -42,8 +42,7 @@ Y. Rivenson, K. de haan, **Y. Zhang**, and A. Ozcan, " Virtual histological stai
 
 K. de haan\*, **Y. Zhang**\*, J. Li, Y. Rivenson, and A. Ozcan, "Virtual histological staining for clinical diagnosis in Kidney Transplant ". In Progress.
 
-**Y. Zhang**\*, K. de haan\*, Y. Rivenson\*, J. Li and A. Ozcan, "Multi Virtual histological Staining, Staining Blending and
-Staining for Microstructure". To be submitted to *Light: Science & Applications*.
+**Y. Zhang**\*, K. de haan\*, Y. Rivenson\*, J. Li and A. Ozcan, "Digital synthesis of histological stains using micro-structured and multiplexed virtual staining of label-free tissue".  *Light: Science & Applications*. **Under Review**
 
 **Y. Zhang**, A. Echeberriaa, T. Zhoua and B. Jalali, "Comparison of Optoelectronic Reservoir Computing and LSTM". Poster, *Photonics West 2020*, accepted.
 
