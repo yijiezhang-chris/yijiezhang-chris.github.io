@@ -43,7 +43,7 @@ K. de haan\*, **Y. Zhang**\*, J. Li, Y. Rivenson, and A. Ozcan, "Virtual histolo
 
 **Y. Zhang**\*, K. de haan\*, Y. Rivenson\*, J. Li and A. Ozcan, "Digital synthesis of histological stains using micro-structured and multiplexed virtual staining of label-free tissue".  *Light: Science & Applications*. **Under Review**.  [arXiv:2001.07267](https://arxiv.org/abs/2001.07267)
 
-**Y. Zhang**, A. Echeberriaa, T. Zhoua and B. Jalali, "Comparison of Optoelectronic Reservoir Computing and LSTM". Poster, *Photonics West 2020*, accepted.
+**Y. Zhang**, A. Echeberriaa, T. Zhoua and B. Jalali, "Comparison of Optoelectronic Reservoir Computing and LSTM". Poster, *Photonics West 2020*, \[[Poster](https://yijiezhang-chris.github.io/files/pw_poster.pdf)\]
 
 F. Sun\*, **Y. Zhang**\*, J. Evans, and S. He, ["A Camouflage Device Without Metamaterials"](http://www.jpier.org/PIER/pier.php?paper=19080803). *Progress In Electromagnetics Research, Vol. 165, 107-117, 2019.*
 
