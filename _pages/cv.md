@@ -36,9 +36,8 @@ Research Experience
   * Supervisor: [Lei Liu](https://www3.nd.edu/~lliu3/)
 
 
-Publications
+Publications and Projects
 ======
-K. de haan, Y. Rivenson, **Y. Zhang**, and A. Ozcan, " Virtual histological staining on the use of deep learning". Review paper. In Writting.
 
 K. de haan\*, **Y. Zhang**\*, J. Li, Y. Rivenson, and A. Ozcan, "Virtual histological staining for clinical diagnosis in Kidney Transplant ". In Progress.
 
